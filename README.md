@@ -11,7 +11,10 @@ Case for Leila
 3. Mouse Models
 
 # Questions: Why is her tumor moving so fast?
- 
+
+# We are looking for ideas on how to boost her immune system and target this cancer based on its unique genetic profile.
+
+
 
 Case Summary
 
