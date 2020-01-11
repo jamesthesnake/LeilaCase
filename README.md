@@ -14,6 +14,7 @@ Case for Leila
 
 # We are looking for ideas on how to boost her immune system and target this cancer based on its unique genetic profile.
 
+https://transgeneome.mpi-cbg.de/transgeneomics/public/bacFinder.html
 
 
 Case Summary
